@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://vulcanet.github.io/base-status-page/",
+  "start_url": "https://vulcanet.github.io/rjo-jsp-status-page/",
   "display": "standalone",
   "theme_color": "#3da751"
 }
